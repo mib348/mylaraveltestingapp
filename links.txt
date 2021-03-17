@@ -1,0 +1,2 @@
+https://mylaraveltestingapp.herokuapp.com/
+https://git.heroku.com/mylaraveltestingapp.git
